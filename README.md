@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📸 Former photographer and 📈 digital marketer, current ✨backend software developer✨💻<br/>
 🧠 Creative thinking, continuously improving, 🐶 dog obsessed, 👩🏻‍💻 problem solver.<br/>
 *** *** ***
-🎓 Student at Turing School of Software & Design, 2021<br/>
+📚 Student at Turing School of Software & Design, 2021<br/>
 🌱 I’m currently learning Rails, SQL, CSS, HTML
 🔎 [LinkedIn](https://www.linkedin.com/in/carolinectan/)</br>
 📫 How to reach me: carolinectan3@gmail.com</br>
