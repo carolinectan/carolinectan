@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **carolinectan/carolinectan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Caroline Tan
-👩🏻‍💻 She / her <br />
+🙋🏻‍♀️ She / her <br />
 
 
 *** *** ***
 📸 Former photographer and 📈 digital marketer, current ✨backend software developer✨💻<br/>
-🧠 Creative thinking, continuously improving, 🐶 dog obsessed, problem solver.<br/>
+🧠 Creative thinking, continuously improving, 🐶 dog obsessed, 👩🏻‍💻 problem solver.<br/>
 *** *** ***
 🎓 Student at Turing School of Software & Design, 2021<br/>
 🌱 I’m currently learning Rails, SQL, CSS, HTML
