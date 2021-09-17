@@ -44,21 +44,39 @@ Here are some ideas to get you started:
 
 ### TOOLS 
 <p>
-  <img src="https://img.shields.io/badge/Atom-2A42D0.svg?&style=for-the-badge&logo=atom&logoColor=white />
-  <img src="https://img.shields.io/badge/rspec%20-7119C2.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku%20-201E84.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%20-2A42D0.svg?&style=for-the-badge&logo=CI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres%20-B8189A.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postico%20-7119C2.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20-201E84.svg?&style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-2A42D0.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/hound-B8189A.svg?&style=for-the-badge&logo=hound&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-7119C2.svg?&style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-201E84.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/travis--ci-2A42D0.svg?&style=for-the-badge&logo=travis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-7119C2.svg?&style=for-the-badge&logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/rspec%20-201E84.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku%20-2A42D0.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%20-B8189A.svg?&style=for-the-badge&logo=CI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres%20-7119C2.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postico%20-201E84.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20-2A42D0.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-B8189A.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/hound-7119C2.svg?&style=for-the-badge&logo=hound&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-201E84.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-2A42D0.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/travis--ci-B8189A.svg?&style=for-the-badge&logo=travis&logoColor=white" />
                                                                                                               
 </p>
-                                                                                                               
+
+### Gems
+<p>
+  <img src="https://img.shields.io/badge/bootstrap-201E84.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/capybara-2A42D0.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/factorybot-B8189A.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/faker-7119C2.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/faraday-201E84.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/figaro-2A42D0.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/launchy-B8189A.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/orderly-7119C2.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/pry-201E84.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/rspec-2A42D0.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/RuboCop-B8189A.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/shoulda--matchers-7119C2.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/simplecov-201E84.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/vcr-2A42D0.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+  <img src="https://img.shields.io/badge/webmock-B8189A.svg?&style=for-the-badge&logo=rubygems&logoColor=white" />
+</p>
 
 ### PROCESSES
 <p>
