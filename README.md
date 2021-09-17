@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 # Caroline Tan
 🙋🏻‍♀️  she / her <br>
 
+*** *** ***
+### 💻  Back-End Software Engineer 📈 Former Digital Marketing Specialist and Photographer 📸 <br>
+*** *** ***
 
-*** *** ***
-💻  Back-End Software Developer 📈 Former Digital Marketing Specialist and Photographer 📸 <br>
-🧠  Creative thinking, continuously improving, 🐶  dog obsessed, 👩🏻‍💻  problem solver.<br>
-*** *** ***
+💛  Empathy-driven developer with a passion for 🧠 strategic thinking, 🌎 sustainability, and 🌈 ✌🏻✌🏼✌🏽✌🏾✌🏿 DEI (diversity, equity, and inclusion).<br>
+🐶  Dog obsessed, 🌱 gardener, and 👟 runner.<br>
 📚  Student at Turing School of Software & Design, 2021<br/>
-🌱  I’m currently learning how to consume and build APIs.
+🤓  I’m currently learning how to consume and build APIs.
 🔎  [LinkedIn](https://www.linkedin.com/in/carolinectan/)</br>
 📫  How to reach me: carolinectan3@gmail.com</br>
 
