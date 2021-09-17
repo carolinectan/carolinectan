@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 *** *** ***
 
 💛  Empathy-driven developer with a passion for 🧠 strategic thinking, 🌎 sustainability, and 🌈 ✌🏻✌🏼✌🏽✌🏾✌🏿 DEI (diversity, equity, and inclusion).<br>
-💼. Previous experience working for startups, agencies, and non-profits in e-commerce, eco-conscious, and outdoor industries
+💼. Previous experience working for startups, agencies, and non-profits in e-commerce, eco-conscious, and outdoor industries<br>
 🐶  Dog obsessed, 🌱 gardener, and 👟 runner<br>
 📚  Student at Turing School of Software & Design (2021-present)<br>
 🤓  Currently learning how to consume and build APIs<br>
