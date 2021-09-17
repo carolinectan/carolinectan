@@ -39,23 +39,23 @@ Here are some ideas to get you started:
 
 ### FRAMEWORKS
 <p>
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-7119C2.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-201E84.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />
 </p>
 
 ### TOOLS 
 <p>
-  <img src="https://img.shields.io/badge/Atom-7119C2.svg?&style=for-the-badge&logo=atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/rspec%20-201E84.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
-  <img src="https://img.shields.io/badge/heroku%20-2A42D0.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%20-B8189A.svg?&style=for-the-badge&logo=CI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres%20-7119C2.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postico%20-201E84.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20-2A42D0.svg?&style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-B8189A.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/hound-7119C2.svg?&style=for-the-badge&logo=hound&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-201E84.svg?&style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-2A42D0.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/travis--ci-B8189A.svg?&style=for-the-badge&logo=travis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-201E84.svg?&style=for-the-badge&logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/rspec%20-2A42D0.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
+  <img src="https://img.shields.io/badge/heroku%20-B8189A.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%20-7119C2.svg?&style=for-the-badge&logo=CI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres%20-201E84.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postico%20-2A42D0.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20-B8189A.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-7119C2.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/hound-201E84.svg?&style=for-the-badge&logo=hound&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-2A42D0.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-B8189A.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/travis--ci-7119C2.svg?&style=for-the-badge&logo=travis&logoColor=white" />
                                                                                                               
 </p>
 
