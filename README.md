@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Caroline Tan
-🙋🏻‍♀️  She / her <br />
+🙋🏻‍♀️  she / her <br>
 
 
 *** *** ***
-📸  Former photographer and 📈 digital marketer, current ✨ backend software developer ✨ 💻<br/>
-🧠  Creative thinking, continuously improving, 🐶  dog obsessed, 👩🏻‍💻  problem solver.<br/>
+💻  Back-End Software Developer 📈 Former Digital Marketing Specialist and Photographer 📸 <br>
+🧠  Creative thinking, continuously improving, 🐶  dog obsessed, 👩🏻‍💻  problem solver.<br>
 *** *** ***
 📚  Student at Turing School of Software & Design, 2021<br/>
-🌱  I’m currently learning Rails, SQL, CSS, HTML
+🌱  I’m currently learning how to consume and build APIs.
 🔎  [LinkedIn](https://www.linkedin.com/in/carolinectan/)</br>
 📫  How to reach me: carolinectan3@gmail.com</br>
 
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ### LANGUAGES
 <p>
   <img src="https://img.shields.io/badge/ruby%20-201E84.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5%20-B8189A.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-7119C2.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20-201E84.svg?style=for-the-badge&logo=SQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveRecord%20-2A42D0.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5%20-2A42D0.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3%20-B8189A.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20-7119C2.svg?style=for-the-badge&logo=SQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActiveRecord%20-201E84.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
 
 </p>
 
@@ -80,10 +80,10 @@ Here are some ideas to get you started:
 
 ### PROCESSES
 <p>
-  <img src="https://img.shields.io/badge/OOP%20-2A42D0.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
-  <img src="https://img.shields.io/badge/TDD%20-B8189A.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC%20-7119C2.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP%20-201E84.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD%20-2A42D0.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC%20-B8189A.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20-7119C2.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
 [![Caroline's github stats](https://github-readme-stats.vercel.app/api?username=carolinectan)](https://github.com/carolinectan/github-readme-stats)
