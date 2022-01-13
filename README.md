@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 🙋🏻‍♀️  she / her <br>
 
 *** *** ***
-### 💻  Back-End Software Engineer 📈 Former Digital Marketing Specialist and Photographer 📸 <br>
+### 💻  Back-End Developer Intern @ Shopify 📈 Former Digital Marketing Specialist and Photographer 📸 <br>
 *** *** ***
 
 💛  Empathy-driven developer with a passion for 🧠 strategic thinking, 🌎 sustainability, and 🌈 ✌🏻✌🏼✌🏽✌🏾✌🏿 DEI (diversity, equity, and inclusion).<br>
