@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 🙋🏻‍♀️  she / her <br>
 
 *** *** ***
-### 💻  Back-End Developer Intern @ Shopify 📈 Former Digital Marketing Specialist and Photographer 📸 <br>
+### 💻  Software Developer @ Shopify 📈<br>
 *** *** ***
 
 💛  Empathy-driven developer with a passion for 🧠 strategic thinking, 🌎 sustainability, and 🌈 ✌🏻✌🏼✌🏽✌🏾✌🏿 DEI (diversity, equity, and inclusion).<br>
 💼. Previous experience working for startups, agencies, and non-profits in e-commerce, eco-conscious, and outdoor industries<br>
 🐶  Dog obsessed, 🌱 gardener, and 👟 runner<br>
-📚  Turing School of Software & Design alumna (2021)<br>
+📚  Turing School of Software & Design alumna, 2105 BE (May 2021)<br>
 <!-- 🤓  Currently learning how to consume and build APIs<br> -->
 🔎  Add me on [LinkedIn](https://www.linkedin.com/in/carolinectan/)<br>
 📫  Email me at carolinectan3@gmail.com<br>
