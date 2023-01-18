@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 📚  Turing School of Software & Design alumna, 2105 BE (May 2021)<br>
 <!-- 🤓  Currently learning how to consume and build APIs<br> -->
 🔎  Add me on [LinkedIn](https://www.linkedin.com/in/carolinectan/)<br>
-📫  Email me at carolinectan3@gmail.com<br>
-
 
 ## SKILLS
 ### LANGUAGES
