@@ -86,4 +86,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/REST%20-7119C2.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
-[![Caroline's github stats](https://github-readme-stats.vercel.app/api?username=carolinectan)](https://github.com/carolinectan/github-readme-stats)
+[![Caroline's github stats](https://github-readme-stats.vercel.app/api?username=carolinectan&count_private=true&show_icons=true)](https://github.com/carolinectan/github-readme-stats)
