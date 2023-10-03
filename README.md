@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 🙋🏻‍♀️  she / her <br>
 
 *** *** ***
-### 💻  Software Developer @ Shopify 🛍️<br>
+### 💻  Software Developer @ Nitid Bit | Ex-Shopify 🛍️<br>
 *** *** ***
 
 💛  Empathy-driven developer with a passion for 🧠 strategic thinking, 🌎 sustainability, and 🌈 ✌🏻✌🏼✌🏽✌🏾✌🏿 DEI (diversity, equity, and inclusion).<br>
