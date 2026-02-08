@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Caroline Tan<br>
-## 👩🏻‍💻  Software Engineer | Ex-Shopify <br>
+## 👩🏻‍💻  Software Engineer<br>
 
 - Experience building and maintaining production Rails and React systems in healthcare and e-commerce
 - Backend-leaning, full-stack with a focus on correctness, maintainability, and production reliability
